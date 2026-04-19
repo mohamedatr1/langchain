@@ -1,7 +1,7 @@
 # 🚀 AI Biography Analyzer & Trace Explorer
 A specialized LLM application built with LangChain and Groq to perform deep biographical analysis. This project demonstrates professional LLMOps practices by integrating LangSmith for full execution tracing, performance monitoring, and prompt debugging.
 
-!
+![LangSmith Trace](langsmith.png)
 
 # 🌟 Key Features
 Structured Analysis: Automatically extracts summaries, interesting facts, achievements, and life stages from raw text.
